@@ -17,4 +17,4 @@ Project created with:
 
 ## Setup
 - Download repo
-- Open in Visual Studio of IDE of choice
+- Open in Visual Studio
